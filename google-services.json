@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74962772055",
+    "project_id": "vcardmobile-6a897",
+    "storage_bucket": "vcardmobile-6a897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74962772055:android:bb0500fdb49bfc8e7e8312",
+        "android_client_info": {
+          "package_name": "com.migueltaes23.vCard_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwxyCHgbaqJ9a--qsXeV9ReK3HYD4jFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
